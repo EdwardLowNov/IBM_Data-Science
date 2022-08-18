@@ -15,7 +15,7 @@ This course provides an introduction to the common programming languages used by
 - Understanding of how IBM Watson Studio and other IBM data science tools can be used by data scientists.
 
 ## 🏆 Certificates 
-To verify the certificates, click the images to follow the links.
+To verify the certificates, click the images to follow the links..
 
 <p align="middle">
   <a href="https://coursera.org/share/a4ce9522e74696dee5b275391c0166f5"><img src="https://user-images.githubusercontent.com/84391594/152701005-61dbe199-d6a7-4951-b2e3-ea27baa421ec.png" height="430"></a>
